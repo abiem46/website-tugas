@@ -1,0 +1,116 @@
+body {
+  background : url(images/background.jpg);
+  }
+  
+#content {
+    width: 750px;
+    margin: auto;
+   }
+   
+#header { 
+    border: 1px solid#000000;
+    background-color: #0084ff;
+    padding: 10px;
+   
+   }    
+
+h1   {
+   text-align: center;
+   color: #fff;
+   font-size: 25px;
+   line-height: 5px;   
+   }
+   
+#footer
+   {
+   padding: 10px;
+   border:1px solid #000000;
+   background-color: #CCCCCC;    
+   }
+   
+#footer p {
+    text-align: center;
+    font-weight: bold;    
+    
+    }
+    
+#menu {
+  float: right;
+  }
+  
+#menu-atas
+{
+	background-color		: #ffa500;
+	border					: 1px solid #000000;
+	padding					: 12px;
+	height					:8px;
+	padding-bottom			:16px;
+}
+  
+  .galeri {
+    border: 1px dashed #000;
+    margin-top: 10px;
+    padding: 10px;
+    background: #eee8aa;
+
+    }
+ 
+#menu-atas li
+{
+	display		:inline;
+}
+#menu-atas li a
+{
+	color				:#333333;
+	font-size			:14px;
+	font-weight			:bold;
+	margin-right		:22px;
+	margin-left			:5px;
+	text-decoration		:none;
+}
+
+#menu-atas li a:hover
+{
+	color	:999;
+}
+ 
+#isi
+   {
+   width: 510px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding: 10px;
+   border: 1px solid #000;
+   background: white;   
+   }
+   
+.gambar {
+   display: inline;
+   float: left;
+   margin-top: 0px;
+   margin-right: 10px;
+   margin-bottom: 30px;
+   margin-left: 0px;
+   border: 5px solid #000; 
+   }
+   
+#isi p {
+   text-align: justify;
+   line-height: 18px;
+   margin-top: 0px;
+   }
+   
+ul   {
+   list-style: none;
+   }
+
+a    {
+   color: white;
+   }   
+a:hover {
+   color: yellow;
+   }  
+
+a:visited {
+    color: black;
+    }
